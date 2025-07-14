@@ -8,7 +8,10 @@ To set up the project, follow these steps:
 
 This tool aims to help users learn how unfamiliar words or phrases are pronounced by combining:
 
-## 🎯 Core functionality
+<img width="585" height="500" alt="图片" src="https://github.com/user-attachments/assets/b6cd5f96-998f-4542-90d6-6f219ed11ddd" />
+<img width="585" height="500" alt="图片" src="https://github.com/user-attachments/assets/8fe12e84-dd21-4eb3-a3f2-5c0ec0a4e0f3" />
+
+🎯 Core functionality
 Image → Text:
 User can “Select Image” or capture an image from clipboard
 The app runs OCR to detect and extract the text content
